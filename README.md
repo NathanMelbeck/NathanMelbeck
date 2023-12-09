@@ -74,22 +74,24 @@
   </a>
 </p>
 
-<!--## Connect with me:
+## Connect with me:
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/viral-bhadeshiya/" target="blank"><img align="center"
+  <a href="https://www.linkedin.com/in/nathan-melbeck/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="Viral Bhadeshiya" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/viralbhadeshiya/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="Viral Bhadeshiya" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/viralrbhadeshiya" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
-      alt="Viral Bhadeshiya" height="30" width="40" /></a>
-  <a href="https://www.upwork.com/freelancers/~01b76da506f37dac94" target="blank"><img align="center"
-      src="https://upload.wikimedia.org/wikipedia/commons/d/d2/Upwork-logo.svg"
-      alt="Viral Bhadeshiya" height="30" width="auto" /></a>
-</p>-->
+      alt="linkedin" height="30" width="40" /></a>
+  <a href="https://twitter.com/NathanMelbeck" target="blank"><img align="center"
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/X_logo_2023.svg/300px-X_logo_2023.svg.png"
+      alt="twitter" height="30" width="30" /></a>
+ <a href="mailto:nathan.melbeck@gmail.com" target="blank"><img align="center"
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/128px-Gmail_icon_%282020%29.svg.png?20221017173631"
+      alt="mail" height="25" width="35" /></a>
+      <!--
+  <a href=" " target="blank"><img align="center"
+      src="https://www.svgrepo.com/show/353655/discord-icon.svg"
+      alt="mail" height="35" width="40" /></a>
+ -->
+</p>
 
 ---
 
